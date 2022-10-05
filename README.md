@@ -1,6 +1,6 @@
 <h1 align="center">Alısveriş_sepeti</h1>
 
-<img align="center" src="https://github.com/darahta/al-sveris-sitesi/blob/main/al%C4%B1sveris.gif" width="500" height="500"/>
+<img align-items="center" src="https://github.com/darahta/al-sveris-sitesi/blob/main/al%C4%B1sveris.gif" width="100%" height="100%"/>
 
 
 

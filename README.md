@@ -1,4 +1,6 @@
-<h2 align="center">Alısveriş_sepeti</h2>
+<h1 align="center">Alısveriş_sepeti</h1>
+
+<img src="https://github.com/darahta/al-sveris-sitesi/blob/main/al%C4%B1sveris.gif" width="500" height="500"/>
 
 
 

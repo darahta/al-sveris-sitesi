@@ -1,14 +1,13 @@
 <h1 align="center">Alısveriş_sepeti</h1>
 
 <img align-items="center" src="https://github.com/darahta/al-sveris-sitesi/blob/main/al%C4%B1sveris.gif" width="100%" height="100%"/>
+</br>
+</br>
 
 
 
 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
 
 In the project directory, you can run:
 
